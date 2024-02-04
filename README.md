@@ -27,9 +27,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width=50/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=50/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=50/>
-    
   </div>               
 </div>
+<br/>
+
 <div align=left>
   <h3>Back-end</h3>
   
@@ -41,6 +42,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=50/>      
   </div>               
 </div>
+<br/>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davi-tanaka&show_icons=true&hide_border=true&locale=en&layout=compact" alt="davi-tanaka" /></p>
 
