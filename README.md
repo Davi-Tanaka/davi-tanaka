@@ -45,6 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davi-tanaka&show_icons=true&hide_border=true&locale=en&layout=compact" alt="davi-tanaka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davi-tanaka&show_icons=true&locale=en" alt="davi-tanaka" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davi-tanaka&theme=highcontrast" alt="davi-tanaka" /></p>
-
